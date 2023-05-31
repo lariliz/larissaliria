@@ -1,3 +1,15 @@
 :root{
-    --cor-de-fundo: #a906f5;
+--cor-de-fundo:#a10eb4;
+--branco: #ffffff;
+--laranja:#e49f1f;
+--azul:#0c34e6;
+--fonte-principal:#871bdf;
+--azul:#06d0f3;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
