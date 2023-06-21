@@ -1,6 +1,6 @@
-@import url(styles/header.css);
+@import url("styles/header.css");
 :root{
-    --cor-de-fundo: #750404;
+    --cor-de-fundo: #b9f8b9;
     --branco: #ffffff;
     --degrade: linear-gradient(#070e1d , #7d7ec2 );
     --laranja: #EB9b00;
@@ -24,4 +24,3 @@ body{
     width: 15%;
     margin: 10px;
 }
-
